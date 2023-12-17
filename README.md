@@ -43,4 +43,6 @@ Cybermonster Hopkins is a talented and passionate developer who loves creating i
 
 If you have any questions, suggestions, or would like to collaborate with Cybermonster Hopkins, please feel free to reach out:
 
-- Telegram: [Monster](https://t.me/psoln)
+- Telegram contact: [Monster](https://t.me/psoln)
+- Telegram channel: [Telegram Channel](https://t.me/cybermonsterx)
+- Telegram group: [MTech hub Chat](https://t.me/cybermonsterq)
