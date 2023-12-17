@@ -1,6 +1,6 @@
 # 𝗠-𝗧𝗘𝗖𝗛 𝗛𝗨𝗕 💡
 
-[![Join our Telegram Channel](https://i.ibb.co/HV6VSN8/Picsart-23-12-09-16-56-31-340.png)](https://t.me/cybermonsterx)
+[![Join our Telegram Channel](https://i.ibb.co/JkrCcqL/1-20231217-191825-0000.png)](https://t.me/cybermonsterx)
 
 Welcome to the Monster AI for Termux! This Ai provides unlimited and free Pro Ai features to enhance your Termux experience. 🚀
 
@@ -31,7 +31,7 @@ Welcome to the Monster AI for Termux! This Ai provides unlimited and free Pro Ai
 
 ## Join Our Telegram Channel 📣
 
-[![Join our Telegram Channel](https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg)](https://t.me/cybermonsterx)
+[![Join our Telegram Channel](https://i.ibb.co/mhvWPfZ/20231217-192706-0000.png)](https://t.me/cybermonsterx)
 
 
 
