@@ -1,5 +1,6 @@
 # MONSTER TECHNOLOGY HUB 🎉🤖
 ## MONSTER AI BOTS
+[![Join our Telegram Channel](https://i.ibb.co/HV6VSN8/Picsart-23-12-09-16-56-31-340.png)](https://t.me/monster_ai_bot)
 
 Welcome to the Monster AI Bot for Termux! This bot provides unlimited and free AI features to enhance your Termux experience. 🚀
 
@@ -31,6 +32,15 @@ Welcome to the Monster AI Bot for Termux! This bot provides unlimited and free A
 
 [![Join our Telegram Channel](https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg)](https://t.me/monster_ai_bot)
 
-Stay updated with the latest announcements, feature releases, and community discussions by joining our Telegram channel. 💬💡
 
-Feel free to contribute to the project and engage with our community! 👥🌟
+
+## Who is Cybermonster Hopkins?
+
+Cybermonster Hopkins is a talented and passionate developer who loves creating innovative solutions and embracing cutting-edge technologies. With expertise in various programming languages and a deep understanding of cybersecurity, Cybermonster Hopkins aims to build secure and scalable software applications.
+
+
+## Contact Information
+
+If you have any questions, suggestions, or would like to collaborate with Cybermonster Hopkins, please feel free to reach out:
+
+- Telegram: [Monster](https://t.me/psoln)
