@@ -2,7 +2,7 @@
 
 [![Join our Telegram Channel](https://i.ibb.co/HV6VSN8/Picsart-23-12-09-16-56-31-340.png)](https://t.me/cybermonsterx)
 
-Welcome to the Monster AI Bots for Termux! This bot provides unlimited and free AI features to enhance your Termux experience. 🚀
+Welcome to the Monster AI for Termux! This Ai provides unlimited and free Pro Ai features to enhance your Termux experience. 🚀
 
 ## Features ✨
 
