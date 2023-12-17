@@ -1,8 +1,8 @@
-# MONSTER-TECHNOLOGY-HUB
+# 𝗠-𝗧𝗘𝗖𝗛 𝗛𝗨𝗕 💡
 
 [![Join our Telegram Channel](https://i.ibb.co/HV6VSN8/Picsart-23-12-09-16-56-31-340.png)](https://t.me/monster_ai_bot)
 
-Welcome to the Monster AI Bot for Termux! This bot provides unlimited and free AI features to enhance your Termux experience. 🚀
+Welcome to the Monster AI Bots for Termux! This bot provides unlimited and free AI features to enhance your Termux experience. 🚀
 
 ## Features ✨
 
