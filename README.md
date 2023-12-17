@@ -31,7 +31,7 @@ Welcome to the Monster AI Bots for Termux! This bot provides unlimited and free 
 
 ## Join Our Telegram Channel 📣
 
-[![Join our Telegram Channel](https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg)](https://t.me/monster_ai_bot)
+[![Join our Telegram Channel](https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg)](https://t.me/cybermonsterx)
 
 
 
