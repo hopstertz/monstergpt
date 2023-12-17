@@ -14,6 +14,7 @@ Welcome to the Monster AI Bot for Termux! This bot provides unlimited and free A
 ## Installation 🛠️
 
 ### Step 1: update packages
+`pkg update && pkg upgrade`
 ### Step 1: Clone the repository
 `git clone https://github.com/Cybermonsterhopkins/monstergpt.git`
 
@@ -34,6 +35,9 @@ Welcome to the Monster AI Bot for Termux! This bot provides unlimited and free A
 
 
 
+
+# 🔐 About Developer:
+
 ## Who is Cybermonster Hopkins?
 
 Cybermonster Hopkins is a talented and passionate developer who loves creating innovative solutions and embracing cutting-edge technologies. With expertise in various programming languages and a deep understanding of cybersecurity, Cybermonster Hopkins aims to build secure and scalable software applications.
@@ -43,6 +47,6 @@ Cybermonster Hopkins is a talented and passionate developer who loves creating i
 
 If you have any questions, suggestions, or would like to collaborate with Cybermonster Hopkins, please feel free to reach out:
 
-- Telegram contact: [Monster](https://t.me/psoln)
-- Telegram channel: [Telegram Channel](https://t.me/cybermonsterx)
-- Telegram group: [MTech hub Chat](https://t.me/cybermonsterq)
+- 🚨Telegram contact: [Monster](https://t.me/monsterrequestsbot)
+- 🚨Telegram channel: [Telegram Channel](https://t.me/cybermonsterx)
+- 🚨Telegram group: [MTech hub Chat](https://t.me/cybermonsterq)
