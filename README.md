@@ -45,7 +45,7 @@ Cybermonster Hopkins is a talented and passionate developer who loves creating i
 
 ## Contact Information
 
-If you have any questions, suggestions, or would like to collaborate with Cybermonster Hopkins, please feel free to reach out:
+If you have any questions, suggestions,donate or would like to collaborate with Cybermonster Hopkins, please feel free to reach out:
 
 - 🚨Telegram contact: [Monster](https://t.me/monsterrequestsbot)
 - 🚨Telegram channel: [Telegram Channel](https://t.me/cybermonsterx)
